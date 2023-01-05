@@ -26,7 +26,7 @@ Contents:
   
   9. Synchronized Thread
  
-  10. Bubble Sort-Command line Arguement(not included)
+  10. Bubble Sort-Command line Arguement
   
   11. String Reversing
   
@@ -48,4 +48,5 @@ Contents:
   
   20. No of Words in a String using Java Swing
   
-  ......(rest will be coming soon...)
+  21. Quick Sort
+  
